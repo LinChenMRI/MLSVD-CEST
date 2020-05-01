@@ -3,6 +3,8 @@ function amp=myfft2(f,N,M)
 % amp=myfft2(f,N,M)   其中N是变换后行数  M是变换后列数
 % 2014年6月23日 11:28:00 by 陈林
 
+ warning off
+ 
 if nargin==1
     N=size(f,1);
     M=size(f,2);
