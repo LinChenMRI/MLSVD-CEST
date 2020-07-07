@@ -1,6 +1,6 @@
 # Matlab toolbox of multilinear singular value decomposition (MLSVD) CEST
 
-Authors: Lin Chen*, Jiadi Xu
+Authors: Lin Chen, Jiadi Xu
 
 Email: chenlin0430@163.com;  chenlin0430@gmail.com;  XuJ@kennedykrieger.org
 
