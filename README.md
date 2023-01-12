@@ -15,7 +15,5 @@ Lin Chen*, Suyi Cao, Raymond C. Koehler, Peter C. M. van Zijl, Jiadi Xu,High‐s
 
 Welcome your comments and suggestions.
 
-For more information, please visit: https://linchenmri.com
-
 January 13, 2020
 
